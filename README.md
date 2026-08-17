@@ -1,6 +1,5 @@
-# RLF_GRN
-A Representation Learning Framework for Gene Regulatory Network Inference from Time Series Expression Data
-
+# SITTF_GRN
+A Scale-Invariant Task Transformation Framework for Gene Regulatory Network Inference from Time-Series Data
 Workflow Overview
 
 The implementation follows a three-step pipeline:
