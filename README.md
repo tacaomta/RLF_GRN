@@ -6,7 +6,7 @@ The implementation follows a three-step pipeline:
 
 1. Data Generation
 
-Datasets are generated according to the experimental settings described in Tables S1 and S2 of the Supplementary Materials. This includes the predefined network sizes, number of networks, number of profiles per structure, and number of time steps.
+Datasets are generated according to the experimental settings described in Tables S2 and S3 of the Supplementary Materials. This includes the predefined network sizes, number of networks, number of profiles per structure, and number of time steps.
 
 2. Data Preparation
 
